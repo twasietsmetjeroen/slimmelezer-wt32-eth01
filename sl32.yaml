@@ -54,7 +54,7 @@ ota:
   platform: esphome
 
 dashboard_import:
-  package_import_url: github://zuidwijk/slimmelezer-wt32-eth01/sl32.yaml@main
+  package_import_url: github://twasietsmetjeroen/slimmelezer-wt32-eth01/sl32.yaml@main
 
 uart:
   id: uart_dsmr
