@@ -161,6 +161,8 @@ text_sensor:
       name: "DSMR Version"
     p1_version_be:
       name: "DSMR Version Belgium"
+    electricity_tariff:
+      name: "Energy Tariff" 
   - platform: version
     name: "ESPHome Version"
     hide_timestamp: true
