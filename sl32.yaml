@@ -157,10 +157,10 @@ text_sensor:
   - platform: dsmr
     identification:
       name: "DSMR Identification"
-    p1_version:
-      name: "DSMR Version"
     electricity_tariff:
       name: "Energy Tariff" 
+    p1_version:
+      name: "DSMR Version"
     p1_version_be:
       name: "DSMR Version Belgium"
   - platform: version
